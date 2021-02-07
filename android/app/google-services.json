@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764954438787",
+    "firebase_url": "https://huleaddis-f9759.firebaseio.com",
+    "project_id": "huleaddis-f9759",
+    "storage_bucket": "huleaddis-f9759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764954438787:android:b51dc1453eb133e19e3fb6",
+        "android_client_info": {
+          "package_name": "com.huluagents.huleaddis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764954438787-jjrgcgn7mcl242hg9og5kc40p7t36i2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBeLSXzoxLEaKVuo0u8gS8dsN5Wggkhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764954438787-jjrgcgn7mcl242hg9og5kc40p7t36i2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
